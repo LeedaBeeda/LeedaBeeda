@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @LeedaBeeda
-- 👀 I’m interested in reading.
-- 🌱 I’m currently learning data analysis.
-- 💞️ I’m looking to collaborate on gug.cz
-- 📫 How to reach me ludmila.kasalova@gug.cz
+- 👋 Hi, I’m Lida
+- 👀 I like to eat stuff and do things.
 
 <!---
 LeedaBeeda/LeedaBeeda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
